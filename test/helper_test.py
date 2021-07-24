@@ -22,7 +22,7 @@ class HelperTest(unittest.TestCase):
         self.df.reset_index(drop=True, inplace=True)
 
 
-    def test_save_csv(self):
+    def test_read_save_csv(self):
         saved_df = self.helper.save_csv(self.df, './test_df.csv')
         try:
           assert_frame_equal(saved_df, self.df, check_index_type=False)
