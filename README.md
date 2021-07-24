@@ -12,8 +12,8 @@
   - [Classic A/B hypothesis testing](notebooks/ClassicABTest.ipynb)
   - [Sequential A/B hypothesis testing](notebooks/Sequential.ipynb)
 - [Scripts](#scripts)
-  - [Utility helper functions](scripts/helper)
-  - [Plotting graph](script/plots)
+  - [Utility helper functions](scripts/helper.py)
+  - [Plotting graph](script/plots.py)
 
   
 
