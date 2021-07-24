@@ -13,7 +13,7 @@
   - [Sequential A/B hypothesis testing](notebooks/Sequential.ipynb)
 - [Scripts](#scripts)
   - [Utility helper functions](scripts/helper.py)
-  - [Plotting graph](script/plots.py)
+  - [Plotting graph](scripts/plots.py)
 
   
 
