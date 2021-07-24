@@ -1,0 +1,11 @@
+auction_id,experiment,date,hour,device_make,platform_os,browser,yes,no
+b211f7b9-f7da-4e78-8ffb-bf9ea17af88f,exposed,2020-07-04,13,Generic Smartphone,6,Chrome Mobile,1,0
+a188907e-da31-45d5-8e33-e59ad8bcdcfe,exposed,2020-07-09,10,Generic Smartphone,6,Chrome Mobile,0,0
+80f17cff-ca46-423c-9168-25220e4ee33b,exposed,2020-07-06,8,Samsung SM-G950F,6,Chrome Mobile WebView,0,1
+c7164cfa-cd66-4e2a-b656-03808bbaf66a,exposed,2020-07-05,12,Generic Smartphone,6,Chrome Mobile,0,0
+0799b9c4-f541-4a48-a9e3-c100e386ab96,exposed,2020-07-09,11,Generic Smartphone,6,Chrome Mobile WebView,0,0
+4cd8101a-7b9e-4d4f-9608-0f78dd7bf693,control,2020-07-03,15,iPhone,5,Mobile Safari,0,0
+eaa902f0-4034-4b03-9d23-d59b842ca0f4,exposed,2020-07-10,11,Generic Smartphone,6,Chrome Mobile,0,0
+ca64d460-ff2a-4b69-bb7a-c45e312501a7,control,2020-07-08,16,Generic Smartphone,6,Chrome Mobile,0,0
+da9c2136-4973-4f23-8b42-58a09de31c81,control,2020-07-03,15,Samsung SM-G973F,6,Samsung Internet,0,0
+85ecbf67-01a1-43d5-9995-76559934abb7,control,2020-07-03,15,Generic Smartphone,6,Chrome Mobile,0,0
