@@ -1,0 +1,14 @@
+numpy
+pandas
+sklearn
+seaborn
+matplotlib
+plotly
+pandas
+scipy
+
+
+
+
+
+
